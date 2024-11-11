@@ -227,7 +227,5 @@ public class MainActivity extends AppCompatActivity {
             // notificar en caso de que los campos esten vacios
             Toast.makeText(this, "No pueden haber campos vacios", Toast.LENGTH_SHORT).show();
         }
-
-
     }
 }
